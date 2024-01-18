@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drinoayo
 - 👀 I’m interested in content writing and Web development 
-- 🌱 I’m currently learning HTML and CSS 
-- 💞️ I’m looking to collaborate on experts in Web development 
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate with experts in Cybersecurity
 - 📫 How to reach me: drinoayo@gmail.com 
 
 <!---
